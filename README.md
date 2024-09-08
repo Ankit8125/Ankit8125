@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋, I'm Ankit!
+ 
+💁‍♂️ About me
+🏫 B.Tech in CSE from BIT Mesra.
+🧠 I'm a quick learner, a team player, and love helping others.
+🚀 Fields that interest me most include Machine Learning, WebDev, and Blockchain..
 
 <!--
 **Ankit8125/Ankit8125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
