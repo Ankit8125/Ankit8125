@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Ankit!
  
-💁‍♂️ About me <br/>
+<h3>💁‍♂️ About me</h3> 
 🏫 B.Tech in CSE from BIT Mesra.<br/>
 🧠 I'm a quick learner, a team player, and love helping others.<br/>
 🚀 Fields that interest me most include Machine Learning, WebDev, and Blockchain..
