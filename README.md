@@ -1,6 +1,7 @@
-# 👋Hi I'm Siddhartha
+# 👋Hi I'm Ankit
 
-# 💫 About Me:
+
+## 💫 About Me:
 🔭I'm currently working on Web development and Generative AI<br>🌱I'm currently learning Maths and Generative AI<br>💞️ I’m looking to collaborate on project that solve day-to-day problems,  and reseach related.<br>📫 How to reach me syncing284@gmail.com
 
 ## 🌐 Socials:
