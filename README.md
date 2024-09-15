@@ -1,5 +1,5 @@
 # 👋Hi I'm Ankit
-![Ankit Verma (1)](https://github.com/user-attachments/assets/3c728d7c-ed21-4fd6-a8a8-f0f83d6c2589)
+![Ankit Verma](https://github.com/user-attachments/assets/1a0b28f0-df8d-497d-bebf-f63d0bb28b01)
 
 
 ## 💫 About Me:
