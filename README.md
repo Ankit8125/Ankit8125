@@ -1,6 +1,7 @@
-# 💫 About Me:
-🔭I'm currently working on Web development and Generative AI<br>🌱I'm currently learning Maths and Generative AI<br>💭Ask me about: Coding questions and Geopolitics.<br>⚡Fun Fact: I’ve created 13+ YouTube videos on college life and gaming that have garnered over 27,000 views!
+# 👋Hi I'm Siddhartha
 
+# 💫 About Me:
+🔭I'm currently working on Web development and Generative AI<br>🌱I'm currently learning Maths and Generative AI<br>💞️ I’m looking to collaborate on project that solve day-to-day problems,  and reseach related.<br>📫 How to reach me syncing284@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankitverma2405/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/Ankit_2_4_1_9) 
