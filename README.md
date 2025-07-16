@@ -1,6 +1,8 @@
 # 👋Hi I'm Ankit
 ![Ankit Verma](https://github.com/user-attachments/assets/1a0b28f0-df8d-497d-bebf-f63d0bb28b01)
 
+![](https://komarev.com/ghpvc/?username=Ankit8125&color=green)
+
 
 ## 💫 About Me:
 🔭I'm currently working on Web development and Generative AI.<br>💞️ I’m looking to collaborate on project that solve day-to-day problems,  and research related.<br>
